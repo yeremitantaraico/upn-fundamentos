@@ -45,6 +45,7 @@ namespace C_
                     Console.WriteLine("Opcion invalida. Ingresa un numero del 1 al 4.");
                     break;
             }
+            Console.ReadKey();
         }
     }
 }
