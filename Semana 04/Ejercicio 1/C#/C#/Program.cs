@@ -40,6 +40,7 @@ namespace C_
             Console.WriteLine($"Monto de la compra: {compra}");
             Console.WriteLine($"Descuento aplicado: {descuento}");
             Console.WriteLine($"Total a pagar: {totalPagar}");
+            Console.ReadKey();
         }
     }
 }
